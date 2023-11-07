@@ -1,0 +1,23 @@
+#arctral {
+    width: 300px;
+    height: 250px; 
+    border: 5px solid rgba(0, 0, 0, 0.905); 
+     position: relative;
+    overflow: hidden;
+    cursor: pointer; 
+  }
+
+  #ball {
+    position: absolute;
+    width: 30px;
+    height: 20px;
+    transition: all 1s;
+  }
+
+  #stadion{
+    width: 300px;
+    height: 250px;
+  }
+  #p{
+    color: red;
+  }
